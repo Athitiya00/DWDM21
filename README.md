@@ -72,10 +72,14 @@ _ชื่อกลุ่ม_ : **แมวส้มสร้างตัว**
       * .head() .tail() 
     * Box plot
     * Time Series Plot
-    
-
-
-
+  * [Visualization](https://github.com/Athitiya00/DWDM21/blob/main/Data_Visualization.ipynb)
+    * Scatter plot
+    * Plot
+    * Quiz กลุ่ม III วาดภาพที่มี marker เป็น สี่เหลี่ยมจัตุรัส เส้นเป็นเส้นประสลับจุดไข่ปลา สีฟ้าอ่อน
+    * Bar Chart กราฟแท่ง
+      * Grouped Barchart ใช้เปรียบเทียบกลุ่มย่อยในกลุ่มใหญ่
+      * Stacked Barchart เปรียบเทียบข้ามกลุ่ม
+    * Histogram
 
 
 
