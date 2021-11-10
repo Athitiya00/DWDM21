@@ -29,8 +29,8 @@ _ชื่อกลุ่ม_ : **แมวส้มสร้างตัว**
 	 	     
   * Data Mining Functions
 			       
-   * Pattern Discovery
+   ** Pattern Discovery
 			       
-   * Classification
+   ** Classification
 			       
-   * Cluster Analysis
+   ** Cluster Analysis
