@@ -19,7 +19,7 @@ _ชื่อกลุ่ม_ : **แมวส้มสร้างตัว**
 
 * บทที่ 1 Introduction
 
-  * [Introduction](https://www.example.com)
+  * [Introduction](https://github.com/Athitiya00/DWDM21/blob/main/Chapter1.pdf)
          
   * Why Data Mining?
 		     
@@ -29,8 +29,8 @@ _ชื่อกลุ่ม_ : **แมวส้มสร้างตัว**
 	 	     
   * Data Mining Functions
 			       
-        * Pattern Discovery
+           - Pattern Discovery
 			       
-        * Classification
+           - Classification
 			       
-        * Cluster Analysis
+           - Cluster Analysis
