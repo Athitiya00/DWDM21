@@ -53,7 +53,31 @@ _ชื่อกลุ่ม_ : **แมวส้มสร้างตัว**
     * Data Matrix and Dissimilarity Matrix
     * Standardizing Numeric Data
     * Special Cases of Minkowski Distance
+  * [Basic Python](https://github.com/Athitiya00/DWDM21/blob/main/Data101(Chapter2).ipynb)
+    * Casting int() float() str() 
+    * Data Structure 
+      * string คือ list ของตัวหนังสือ
+      * วิธีสร้าง list ว่าง
+         * การเติมค่าเข้าใน list (.append()) 
+         * การชี้ค่า list (indexing) 
+      * list slicing 
+      * list+list 
+      * format string
+    * Loop 
+      * Nested loop 
+    * Condition (if statement) 
+      * Quiz 1 หา min 
+      * เฉลยquiz1 
+      * HW ตัดเกรด 
+    * Function 
+      * Example1 
+      * Example2 (ไม่มี input) 
+      * Example 3 (ไม่มี output) 
+      * Example 4 (ไม่มี input และ output)
+      * ลักษณะของ input(paremeter,argument)
 
+
+    
 
 
 
