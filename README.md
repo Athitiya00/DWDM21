@@ -19,18 +19,18 @@ _ชื่อกลุ่ม_ : **แมวส้มสร้างตัว**
 
 * บทที่ 1 Introduction
 
-         *[Introduction](https://www.example.com)
+  * [Introduction](https://www.example.com)
          
-         * Why Data Mining?
+  * Why Data Mining?
 		     
-         * What is Data Mining?
+  * What is Data Mining?
 		     
-         * Knowledge Discovery (KDD) Process
+  * Knowledge Discovery (KDD) Process
 	 	     
-         * Data Mining Functions
+  * Data Mining Functions
 			       
-             * Pattern Discovery
+        * Pattern Discovery
 			       
-             * Classification
+        * Classification
 			       
-             * Cluster Analysis
+        * Cluster Analysis
