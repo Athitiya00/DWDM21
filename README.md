@@ -75,8 +75,11 @@ _ชื่อกลุ่ม_ : **แมวส้มสร้างตัว**
       * Example 3 (ไม่มี output) 
       * Example 4 (ไม่มี input และ output)
       * ลักษณะของ input(paremeter,argument)
-
-
+ * [Pandas](https://github.com/Athitiya00/DWDM21/blob/main/Data102(Chapter2).ipynb)
+   * Read Data
+     * .head() .tail() 
+   * Box plot
+   * Time Series Plot
     
 
 
