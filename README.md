@@ -18,23 +18,15 @@ _ชื่อกลุ่ม_ : **แมวส้มสร้างตัว**
 # สารบัญ
 
 * บทที่ 1 Introduction
-
   * [Introduction](https://github.com/Athitiya00/DWDM21/blob/main/Chapter1.pdf)
-         
-  * Why Data Mining?
-		     
-  * What is Data Mining?
-		     
-  * Knowledge Discovery (KDD) Process
-	 	     
-  * Data Mining Functions
-			       
-       * Pattern Discovery
-			       
-       * Classification
-			       
+  * Why Data Mining?    
+  * What is Data Mining?    
+  * Knowledge Discovery (KDD) Process     
+  * Data Mining Functions	       
+       * Pattern Discovery	       
+       * Classification       
        * Cluster Analysis
-       
+      
 * บทที่ 2 Getting to Know Your Data
   * [Data Objects and Attribute Types](https://github.com/Athitiya00/DWDM21/blob/main/Chapter2.pdf)
     * Types of Data Sets
@@ -75,11 +67,11 @@ _ชื่อกลุ่ม_ : **แมวส้มสร้างตัว**
       * Example 3 (ไม่มี output) 
       * Example 4 (ไม่มี input และ output)
       * ลักษณะของ input(paremeter,argument)
- * [Pandas](https://github.com/Athitiya00/DWDM21/blob/main/Data102(Chapter2).ipynb)
-   * Read Data
-     * .head() .tail() 
-   * Box plot
-   * Time Series Plot
+  * [Pandas](https://github.com/Athitiya00/DWDM21/blob/main/Data102(Chapter2).ipynb)
+    * Read Data
+      * .head() .tail() 
+    * Box plot
+    * Time Series Plot
     
 
 
