@@ -19,10 +19,10 @@ _ชื่อกลุ่ม_ : **แมวส้มสร้างตัว**
 
 * บทที่ 1 Introduction
   * [Introduction](https://github.com/Athitiya00/DWDM21/blob/main/Chapter1.pdf)
-  * Why Data Mining?    
-  * What is Data Mining?    
-  * Knowledge Discovery (KDD) Process     
-  * Data Mining Functions	       
+    * Why Data Mining?    
+    * What is Data Mining?    
+    * Knowledge Discovery (KDD) Process     
+    * Data Mining Functions	       
        * Pattern Discovery	       
        * Classification       
        * Cluster Analysis
@@ -80,9 +80,21 @@ _ชื่อกลุ่ม_ : **แมวส้มสร้างตัว**
       * Grouped Barchart ใช้เปรียบเทียบกลุ่มย่อยในกลุ่มใหญ่
       * Stacked Barchart เปรียบเทียบข้ามกลุ่ม
     * Histogram
-
-
-
+  * [Distance_Numpy](https://github.com/Athitiya00/DWDM21/blob/main/Distance_Numpy.ipynb)
+    * Numpy array
+      * สร้าง numpy array (matrix) จาก list
+        * matrix transpose
+      * สร้าง matrix เริ่มต้น (zeros, ones)
+      * สร้าง matrix random
+        * matix properties
+      * Indexing&Slicing
+      * Useful functions
+      * วนลูปเอง
+    * Distance Matrix
+      * Euclidean Distance (L2-norm)
+      * Distance function
+      * Manhattan Distance (L1-norm)
+      * Distance of Binary Value
 
 
 
