@@ -219,9 +219,30 @@ Analytical Processing
       * Precision and Recall, and F-measures
     * Neural Network for Classification
       * Perceptron 
-  * [k-Nearest Neighbor & Neural Networks]()
-
-
+  * [k-Nearest Neighbor & Neural Networks](https://github.com/Athitiya00/DWDM21/blob/main/Chapter7Classification(KNN_NN).ipynb)
+    * Losd data
+    * Split Data
+    * Train Model
+      * import
+      * Knn1
+      * Knn2
+      * Knn3
+    * Retrain & Evaluate 
+    * Neural Network
+      * import
+      * Define
+      * Train - Test
+      * ANN2
+      * ANN3
+  * [Evaluation](https://github.com/Athitiya00/DWDM21/blob/main/Chapter7_Classification(Evaluation).ipynb)
+    * Load data 
+    * แบ่ง Data
+    * สร้าง Model ทำนาย
+      * import
+      * Define
+      * Train
+    * Evaluation
+        
 
 
 
