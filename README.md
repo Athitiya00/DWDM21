@@ -258,8 +258,31 @@ Analytical Processing
         * จัดกลุ่มสีให้เหลือ 16 สี
         * ใช้ centroid เป็นตัวแทนของสี
 
-
-
+* MiniExam
+  * [MiniExam](https://github.com/Athitiya00/DWDM21/blob/main/MiniExam.ipynb)
+  
+* Group Project  
+  * [Group Project](https://github.com/Athitiya00/DWDM21/blob/main/Group_Project.ipynb)
+    * Data and Preprocessing
+      * เว็บที่มาของข้อมูล
+      * ตาราง sellers
+      * ตาราง order_items
+      * ตาราง products
+      * เชื่อมต่อตาราง
+    * ปัญหา
+      * Association Rules
+      * Classification 
+        * ประโยชน์ของการทำนาย 
+        * Split Data
+        * Decision Tree
+        * KNN
+        * Neural Network
+          * พล็อตกราฟเปรียบเทียบความแม่นยำของการวัดผล
+        * Retrain & Evaluate
+      * Visulization
+        * เปรียบเทียบจำนวนสินค้าที่ขายได้ในแต่ล่ะ category
+        * เปรียบเทียบ ราคา,ค่าส่ง,ความสูง,ความยาว,น้ำหนัก และ ความกว้าง เฉลี่ย ของแต่ล่ะ category
+   *  [Slide นำเสนอ](https://github.com/Athitiya00/DWDM21/blob/main/%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B8%AD_PROJECT_DWDM21.pdf)
 
 
 
