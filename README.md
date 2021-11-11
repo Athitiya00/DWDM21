@@ -166,7 +166,14 @@ Analytical Processing
         * Apriori Pruning and Scalable Mining Methods
         * A Candidate Generation & Test Approach     
         * The Apriori Algorithm   
-        
+  * [Data 'reduced_marketbasket' Case](https://github.com/Athitiya00/DWDM21/blob/main/Chapter6_Association_Rules.ipynb)
+    * มีประเทศสาขาของ supermaket นี้ทั้งหมดกี่ประเทศ
+      * HW
+      * เฉลยHW 
+    * ลบ recodes ที่ถูก cancel ออกไป
+    * เตรียม Data สำหรับ (Fequence Pattern) Association Rule
+    * Apriori
+      * Quiz      
         
         
         
