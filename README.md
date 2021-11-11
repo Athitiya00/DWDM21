@@ -40,17 +40,20 @@ _ชื่อกลุ่ม_ : **แมวส้มสร้างตัว**
     * Attribute Types
     * Numeric Attribute Types
     * Basic Statistical Descriptions of Data
+    
   * [Lecture Measuring Data Similarity and Dissimilarity](https://github.com/Athitiya00/DWDM21/blob/main/chapter2%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1.pdf)
     * Similarity, Dissimilarity, and Proximity
     * Data Matrix and Dissimilarity Matrix
     * Standardizing Numeric Data
     * Special Cases of Minkowski Distance
+  
   * [Lecture Binary Distance](https://github.com/Athitiya00/DWDM21/blob/main/Binary-Distance_140964.pdf)
     * Proximity Measure for Binary Attributes
     * Proximity Measure for Categorical Attributes
     * Ordinal Variables
     * Attributes of Mixed Type
     * Cosine Similarity of Two Vectors
+  
   * [Basic Python](https://github.com/Athitiya00/DWDM21/blob/main/Data101(Chapter2).ipynb)
     * Casting int() float() str() 
     * Data Structure 
@@ -73,11 +76,13 @@ _ชื่อกลุ่ม_ : **แมวส้มสร้างตัว**
       * Example 3 (ไม่มี output) 
       * Example 4 (ไม่มี input และ output)
       * ลักษณะของ input(paremeter,argument)
+  
   * [Pandas](https://github.com/Athitiya00/DWDM21/blob/main/Data102(Chapter2).ipynb)
     * Read Data
       * .head() .tail() 
     * Box plot
     * Time Series Plot
+  
   * [Visualization](https://github.com/Athitiya00/DWDM21/blob/main/Data_Visualization.ipynb)
     * Scatter plot
     * Plot
@@ -86,6 +91,7 @@ _ชื่อกลุ่ม_ : **แมวส้มสร้างตัว**
       * Grouped Barchart ใช้เปรียบเทียบกลุ่มย่อยในกลุ่มใหญ่
       * Stacked Barchart เปรียบเทียบข้ามกลุ่ม
     * Histogram
+  
   * [Distance_Numpy](https://github.com/Athitiya00/DWDM21/blob/main/Distance_Numpy.ipynb)
     * Numpy array
       * สร้าง numpy array (matrix) จาก list
@@ -104,6 +110,7 @@ _ชื่อกลุ่ม_ : **แมวส้มสร้างตัว**
 
 * บทที่ 3 Data Preprocessing
   * [Lecture Data Preprocessing](https://github.com/Athitiya00/DWDM21/blob/main/Chapter-3.pdf)
+  
   * [Data Preprocessing](https://github.com/Athitiya00/DWDM21/blob/main/Data_Preprocessing_(Chapter_3).ipynb)
     * Meta Data (Data ที่ใช้อธิบาย Data)
     * ชี้ข้อมมูลในตาราง
@@ -166,6 +173,7 @@ Analytical Processing
         * Apriori Pruning and Scalable Mining Methods
         * A Candidate Generation & Test Approach     
         * The Apriori Algorithm   
+  
   * [Data 'reduced_marketbasket' Case](https://github.com/Athitiya00/DWDM21/blob/main/Chapter6_Association_Rules.ipynb)
     * มีประเทศสาขาของ supermaket นี้ทั้งหมดกี่ประเทศ
       * HW
@@ -185,7 +193,9 @@ Analytical Processing
     * Decision Tree Induction      
       * An Example
       * Information Gain
+  
   * [HW Decision Tree คำนวณมือ](https://github.com/Athitiya00/DWDM21/blob/main/Decision-Tree.pdf)
+  
   * [Decision Tree](https://github.com/Athitiya00/DWDM21/blob/main/Chapter7_Classification(Decision_Tree).ipynb)
     * Load Data
     * Train Model
@@ -204,6 +214,7 @@ Analytical Processing
       * ต้นไม้ที่ใช้เกณฑ์ Entropy และใช้การ split แบบ random
       * ต้นไม้ที่เราคิดเอง
     * เลือกต้นไม้ที่มีความแม่นยำมากที่สุด แล้ว train ใหม่ด้วย Training 
+  
   * [Lecture k-Nearest Neighbor](https://github.com/Athitiya00/DWDM21/blob/main/Lecture_141064.pdf)
     * Bayes’ Theorem: Basics
     * Naïve Bayes Classifier
@@ -211,6 +222,7 @@ Analytical Processing
       * Training Dataset
     * Lazy Learner: Instance-Based Methods  
     * The k-Nearest Neighbor Algorithm
+  
   * [Lecture Evaluation & Neural Networks](https://github.com/Athitiya00/DWDM21/blob/main/Lecture_191064%20.pdf)
     * Model Evaluation and Selection
     * Classifier Evaluation Metrics
@@ -219,6 +231,7 @@ Analytical Processing
       * Precision and Recall, and F-measures
     * Neural Network for Classification
       * Perceptron 
+  
   * [k-Nearest Neighbor & Neural Networks](https://github.com/Athitiya00/DWDM21/blob/main/Chapter7Classification(KNN_NN).ipynb)
     * Losd data
     * Split Data
@@ -234,6 +247,7 @@ Analytical Processing
       * Train - Test
       * ANN2
       * ANN3
+  
   * [Evaluation](https://github.com/Athitiya00/DWDM21/blob/main/Chapter7_Classification(Evaluation).ipynb)
     * Load data 
     * แบ่ง Data
