@@ -96,8 +96,51 @@ _ชื่อกลุ่ม_ : **แมวส้มสร้างตัว**
       * Manhattan Distance (L1-norm)
       * Distance of Binary Value
 
-
-
+* บทที่ 3 Data Preprocessing
+  * [Lecture Data Preprocessing](https://github.com/Athitiya00/DWDM21/blob/main/Chapter-3.pdf)
+  * [Data Preprocessing](https://github.com/Athitiya00/DWDM21/blob/main/Data_Preprocessing_(Chapter_3).ipynb)
+    * Meta Data (Data ที่ใช้อธิบาย Data)
+    * ชี้ข้อมมูลในตาราง
+      * ชี้แบบธรรมดาใช้ [ชื่อคอลัมน์][ชื่อindex]
+      * ชี้แบบ .iloc[] (มองข้อมูลเป็นเมทริกซ์)
+    * Missing Values
+      * Missing Values กำจัดmissing 
+      * Handling Missing Value 1 (ลบค่า missing)
+      * Handling Missing Value 1.5 (ลบค่า missing เฉพาะใน คอลัมล์ที่เราสนใจเท่านั้น)
+      * Handling Missing Value 2 (แทนค่าด้วย class ใหม่ (unknown))
+      * Handling Missing Value 3 (แทนค่าด้วย class ใหม่ (ค่าที่เหมาะสม))
+      * Handling Missing Value 4 (แทนค่าด้วย ค่ากลาง)
+        * ถ้าเป็น numeric ใช้ mean
+        * ถ้าเป็น numeric (ตัวหนังสือ) ใช้ mode
+        * ถ้าเป็น ordinal ใช้ median
+      * Handling Missing Value 5 (แทนค่าด้วย ค่ากลาง ของ simple)
+    * Select data by values [PD]
+      * สร้าง list ของ boolean
+        * นำ list ของ boolean มาเลือกค่าในตาราง
+      * Handling Missing Value 5 (แทนด้วย ค่ากลางของ samples ใน class เดียวกัน)(ต่อ)
+      * การเรียงข้อมูล[PD]
+    * Outlier
+      * ตัด outlier แบบ manual
+      * Pandas' looping (.iterrows)
+    * การรวมตาราง Data Integration (ต่อตารางในแนวแกน x) 
+      * รวม 2 ตาราง (.merge())
+      * รวม 2 ตาราง (.merge())
+      * ตารางรอง (ตารางข้างขวา) ต้องไม่มี index ซ้ำ
+      * Group by (pandas)
+      * [PD] save ตารางเอาไปใช้ที่อื่น
+      * [PD] การสร้างตาราง
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
 
 
 
