@@ -175,8 +175,57 @@ Analytical Processing
     * Apriori
       * Quiz      
         
-        
-        
+* บทที่ 6 Classification
+  * [Lecture Classification: Basic Concepts](https://github.com/Athitiya00/DWDM21/blob/main/Chapter_8.pdf)     
+    * Basic Concepts
+      * Supervised vs. Unsupervised Learning (1)
+      * Supervised vs. Unsupervised Learning (2)
+      * Prediction Problems: Classification vs. Numeric Prediction
+      * Classification—Model Construction, Validation and Testing
+    * Decision Tree Induction      
+      * An Example
+      * Information Gain
+  * [HW Decision Tree คำนวณมือ](https://github.com/Athitiya00/DWDM21/blob/main/Decision-Tree.pdf)
+  * [Decision Tree](https://github.com/Athitiya00/DWDM21/blob/main/Chapter7_Classification(Decision_Tree).ipynb)
+    * Load Data
+    * Train Model
+      * import (เรียกใช้ algorithm algorithm ที่เราต้องการ)
+      * define (กำหนด parameters ให้กับ model)
+      * train (ฝึกสอนตัวแบบ)
+    * Plot tree
+    * Evalution
+      * Random
+    * Advanced Tree
+    * TEST
+    * Start here
+    * HW
+      * ต้นไม้ที่ใช้เกณฑ์ Entropy มีความสูงไม่เกิน 4 ชั้น
+      * ต้นไม้ที่ใช้เกณฑ์ Gini มีใบไม่เกิน 25 ใบ
+      * ต้นไม้ที่ใช้เกณฑ์ Entropy และใช้การ split แบบ random
+      * ต้นไม้ที่เราคิดเอง
+    * เลือกต้นไม้ที่มีความแม่นยำมากที่สุด แล้ว train ใหม่ด้วย Training 
+  * [Lecture k-Nearest Neighbor](https://github.com/Athitiya00/DWDM21/blob/main/Lecture_141064.pdf)
+    * Bayes’ Theorem: Basics
+    * Naïve Bayes Classifier
+      * Categorical vs. Continuous Valued Features
+      * Training Dataset
+    * Lazy Learner: Instance-Based Methods  
+    * The k-Nearest Neighbor Algorithm
+  * [Lecture Evaluation & Neural Networks](https://github.com/Athitiya00/DWDM21/blob/main/Lecture_191064%20.pdf)
+    * Model Evaluation and Selection
+    * Classifier Evaluation Metrics
+      * Confusion Matrix 
+      * Accuracy, Error Rate,Sensitivity and Specificity
+      * Precision and Recall, and F-measures
+    * Neural Network for Classification
+      * Perceptron 
+  * [k-Nearest Neighbor & Neural Networks]()
+
+
+
+
+
+
 
 
 
