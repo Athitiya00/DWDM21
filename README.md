@@ -243,6 +243,24 @@ Analytical Processing
       * Train
     * Evaluation
         
+* บทที่ 7 Clustering
+  * [Clustering](https://github.com/Athitiya00/DWDM21/blob/main/Chapter8_Clustering.ipynb)
+    * K-means
+      * Generate Data
+      * Explore data
+      * Clustering
+        * Import
+        * Define
+        * Fit-Predict
+        * Plot
+      * Example Application (Color Quantization) 
+        * นับจำนวนสี 
+        * จัดกลุ่มสีให้เหลือ 16 สี
+        * ใช้ centroid เป็นตัวแทนของสี
+
+
+
+
 
 
 
