@@ -18,7 +18,7 @@ _ชื่อกลุ่ม_ : **แมวส้มสร้างตัว**
 # สารบัญ
 
 * บทที่ 1 Introduction
-  * [Introduction](https://github.com/Athitiya00/DWDM21/blob/main/Chapter1.pdf)
+  * [Lecture Introduction](https://github.com/Athitiya00/DWDM21/blob/main/Chapter1.pdf)
     * Why Data Mining?    
     * What is Data Mining?    
     * Knowledge Discovery (KDD) Process     
@@ -28,7 +28,7 @@ _ชื่อกลุ่ม_ : **แมวส้มสร้างตัว**
        * Cluster Analysis
       
 * บทที่ 2 Getting to Know Your Data
-  * [Data Objects and Attribute Types](https://github.com/Athitiya00/DWDM21/blob/main/Chapter2.pdf)
+  * [Lecture Data Objects and Attribute Types](https://github.com/Athitiya00/DWDM21/blob/main/Chapter2.pdf)
     * Types of Data Sets
        * Record Data
        * Graphs and Networks
@@ -40,11 +40,17 @@ _ชื่อกลุ่ม_ : **แมวส้มสร้างตัว**
     * Attribute Types
     * Numeric Attribute Types
     * Basic Statistical Descriptions of Data
-  * [Measuring Data Similarity and Dissimilarity](https://github.com/Athitiya00/DWDM21/blob/main/chapter2%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1.pdf)
+  * [Lecture Measuring Data Similarity and Dissimilarity](https://github.com/Athitiya00/DWDM21/blob/main/chapter2%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1.pdf)
     * Similarity, Dissimilarity, and Proximity
     * Data Matrix and Dissimilarity Matrix
     * Standardizing Numeric Data
     * Special Cases of Minkowski Distance
+  * [Lecture Binary Distance](https://github.com/Athitiya00/DWDM21/blob/main/Binary-Distance_140964.pdf)
+    * Proximity Measure for Binary Attributes
+    * Proximity Measure for Categorical Attributes
+    * Ordinal Variables
+    * Attributes of Mixed Type
+    * Cosine Similarity of Two Vectors
   * [Basic Python](https://github.com/Athitiya00/DWDM21/blob/main/Data101(Chapter2).ipynb)
     * Casting int() float() str() 
     * Data Structure 
@@ -129,14 +135,37 @@ _ชื่อกลุ่ม_ : **แมวส้มสร้างตัว**
       * Group by (pandas)
       * [PD] save ตารางเอาไปใช้ที่อื่น
       * [PD] การสร้างตาราง
+
+* บทที่ 4  Data Warehousing and On-line 
+Analytical Processing
+  * [Lecture Data Warehousing and On-line Analytical Processing](https://github.com/Athitiya00/DWDM21/blob/main/Chapter4_160964.pdf)
+    * What is a Data Warehouse?
+    * From Tables and Spreadsheets to Data Cubes
+    * Conceptual Modeling of Data Warehouses
+      * Star Schema: An Example
+      * Snowflake Schema: An Example
+      * Fact Constellation: An Example
+    * Typical OLAP Operations
+      * Roll up (drill-up)
+      * Drill down (roll down)
+      * Slice and dice
+      * Pivot (rotate)
+      * Drill across
+      * Drill through
         
-        
-        
-        
-        
-        
-        
-        
+* บทที่ 5 Association Rules
+  * [Lecture Mining Frequent Patterns, Association and Correlations: Basic Concepts and Methods](https://github.com/Athitiya00/DWDM21/blob/main/Chapter6.pdf)
+   * Basic Concepts
+     * What Is Pattern Discovery?        
+        * k-Itemsets and Their Supports
+        * Frequent Itemsets (Patterns)   
+        * From Frequent Itemsets to Association Rules     
+        * Mining Frequent Itemsets and Association Rules
+    * Efficient Pattern Mining Methods
+        * Apriori Algorithm
+          * Apriori Pruning and Scalable Mining Methods
+          * A Candidate Generation & Test Approach     
+          * The Apriori Algorithm   
         
         
         
